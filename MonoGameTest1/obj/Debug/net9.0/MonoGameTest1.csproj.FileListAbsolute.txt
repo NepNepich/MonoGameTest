@@ -68,3 +68,5 @@ D:\Desktop\Coding\Github\MonoGameTest\MonoGameTest1\obj\Debug\net9.0\ref\MonoGam
 D:\Desktop\Coding\Github\MonoGameTest\MonoGameTest1\bin\Debug\net9.0\MonoGameLibrary.dll
 D:\Desktop\Coding\Github\MonoGameTest\MonoGameTest1\bin\Debug\net9.0\MonoGameLibrary.pdb
 D:\Desktop\Coding\Github\MonoGameTest\MonoGameTest1\bin\Debug\net9.0\Content\images\logo.xnb
+D:\Desktop\Coding\Github\MonoGameTest\MonoGameTest1\bin\Debug\net9.0\Content\images\atlas.xnb
+D:\Desktop\Coding\Github\MonoGameTest\MonoGameTest1\bin\Debug\net9.0\Content\images\atlas-definition.xml
